@@ -1,0 +1,22 @@
+{
+  "name": "devlopr-jekyll",
+  "homepage": "https://github.com/NoellaMarie501/my-portfolio",
+  "authors": [
+    "Marie Cheo <marienoelcheo@gmail.com>"
+  ],
+  "description": "Marie Cheo Portfolio Website",
+  "main": "",
+  "keywords": [
+    "portfolio",
+    "cheo",
+    "projects"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

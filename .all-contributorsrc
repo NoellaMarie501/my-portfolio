@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Noelportfolio",
+      "name": "Marie Noel Cheo",
+      "avatar_url": "",
+      "profile": "",
+      "contributions": [
+        "infra",
+        "design",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "My-Portfolio",
+  "projectOwner": "NoellaMarie501",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular"
+}
