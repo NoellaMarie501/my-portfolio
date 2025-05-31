@@ -2,15 +2,15 @@
 mariecheo:
    name: Marie Noel Kieng Cheo
    username: mariecheo
-   site: http://mariecheo.com
+   site: https://marie-cheo-portfolio.vercel.app
    avatar: mariecheo.jpeg
    bio: "Hi I am Noel, a Software Engineer."
-   email: mail@mariecheo.com
+   email: marienoelcheo@gmail.com
    social:
       - title: "github"
-        url: "https://github.com/mariecheo"
+        url: "https://github.com/NoellaMarie501"
       - title: "linkedin"
-        url: "https://www.linkedin.com/in/mariecheo"
+        url: "https://www.linkedin.com/in/marie-cheo-539739363"
       - title: "youtube"
         url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
       - title: "facebook"
