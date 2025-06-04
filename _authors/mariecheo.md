@@ -1,7 +1,7 @@
 ---
 name: Marie Noel Kieng Cheo
 username: mariecheo
-bio: "Hi there!! I am Marie Noel, a Software Engineer"
+bio: "Hi! I'm Marie Noel, a Software Engineer specializing in web development, UI/UX, and cloud tech. I enjoy building user-friendly apps, learning new tools, and collaborating on open-source projects."
 site: https://marie-cheo-portfolio.vercel.app
 avatar: mariecheo.jpeg
 email: marienoelcheo@gmail.com

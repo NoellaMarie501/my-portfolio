@@ -1,7 +1,7 @@
 title: Marie Noel Cheo
 subtitle: My Portfolio & Blog posts
 description: >- # this means to ignore newlines until "baseurl:"
-  A clean and fast developer portfolio built with Jekyll — showcasing projects, blogs, and technical insights by Cheo Marie Noel Kieng.
+  Welcome to my personal portfolio! I'm Marie Noel Kieng Cheo, a passionate software developer sharing my projects, blog posts, and experiences in tech. Explore my journey, insights, and the work I love to do.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -26,13 +26,13 @@ urls:
 
 author_logo: mariecheo.jpeg
 author: Marie Noel Kieng Cheo
-author_bio: Hey there! I am Marie Noel Kieng Cheo, a software developer who enjoys solving real-world problems through clean and scalable solutions. I love working on impactful projects and continuously learning to improve my craft. I’m also passionate about sharing knowledge whether through mentorship or collaboration  and believe growth is best when it's shared.
+author_bio: Hey there! I am Marie Noel Kieng Cheo, a 5+ years software developer who enjoys solving real-world problems through clean and scalable solutions. I love working on impactful projects and continuously learning to improve my craft. I’m also passionate about sharing knowledge whether through mentorship or collaboration  and believe growth is best when it's shared.
 author_email: "marienoelcheo@gmail.com"
 author_location: Canada
 author_website_url: ""
 author_linkedIn: https://www.linkedin.com/in/mariecheo
 typewrite-text: a passionate developer sharing my projects, tutorials, and journey in tech.
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img: me.jpeg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
@@ -40,25 +40,25 @@ author_work_experiences:
               company_logo: unstop_logo.jpeg
               company_url: http://unstop.com
               designation: Software Engineer Mentor
-              description: Worked on various Google Products
+              description: Guided tech career transitions through mentorship and hands-on learning. Improved learner skills via coding challenges and real-world projects. Boosted job readiness with career coaching and resume support. Built a collaborative, knowledge-sharing community.
               visibility: true
             - company_name: NewRich Network
               company_logo: newrich.jpeg
               company_url: https://newrich.com
               designation: Software Engineer
-              description: Worked on various Google Products
+              description: Developed and optimized backend APIs, cutting response times by 40% and boosting user engagement. Refactored legacy code, improving maintainability by 25% and accelerating feature delivery. Built microservices for user progress tracking, enabling scalable, real-time analytics for thousands of learners.
               visibility: true
             - company_name: Maviance PLC
               company_logo: maviance_logo.jpeg
               company_url: https://maviance.cm
               designation: Backend Engineer
-              description: Worked on various Google Products
+              description: Integrated CNPS APIs, enabling thousands of employees to access digital pension and insurance services. Developed secure backend APIs and integrated payment systems to streamline public sector transactions. Improved system reliability with automated background tasks and data syncing. Accelerated deployments through CI/CD pipelines with Jenkins and Bitbucket. Enhanced data security using AES encryption for sensitive information.
               visibility: true
             - company_name: Corlang Limited
               company_logo: corlang_logo.jpeg
               company_url: http://www.corlang.com
               designation: Full Stack Developer
-              description: Worked on various Google Products
+              description: Led development of a responsive ReactJS UI, enhancing usability on mobile and desktop. Built scalable Laravel microservices for seamless integration with multiple bill payment providers. Enabled secure, real-time transaction processing through high-performance backend services. Introduced Docker to standardize development environments, reducing deployment issues.
               visibility: true
 
 # Education
@@ -72,15 +72,15 @@ author_education_details:
 
 # Projects
 author_project_details:
+              - project_thumbnail: pokedex.png
+                project_title: Pokédex Explorer
+                project_description: Browse and explore Pokémon with images, abilities, and stats. Search by name and scroll to discover more instantly.
+                project_url: https://myp-pokemon-ap.vercel.app
+                visibility: true
               - project_thumbnail: gamershub.png
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
                 visibility: true
 
 # social links
