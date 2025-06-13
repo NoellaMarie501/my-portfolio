@@ -72,6 +72,11 @@ author_education_details:
 
 # Projects
 author_project_details:
+              - project_thumbnail: mydropbox.png
+                project_title: My Dropbox Clone
+                project_description: A Dropbox-like application built with React and Firebase for real-time file storage and sharing.
+                project_url: https://my-dropbos.vercel.app
+                visibility: true
               - project_thumbnail: pokedex.png
                 project_title: Pokédex Explorer
                 project_description: Browse and explore Pokémon with images, abilities, and stats. Search by name and scroll to discover more instantly.
