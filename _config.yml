@@ -77,11 +77,6 @@ author_project_details:
                 project_description: Browse and explore Pokémon with images, abilities, and stats. Search by name and scroll to discover more instantly.
                 project_url: https://myp-pokemon-ap.vercel.app
                 visibility: true
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
 
 # social links
 # twitter_username: 

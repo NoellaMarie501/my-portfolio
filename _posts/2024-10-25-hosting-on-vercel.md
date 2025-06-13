@@ -17,7 +17,7 @@ Here’s a step-by-step guide to get your React app live on Vercel in minutes.
 
 ---
 
-### 🔥 Why Choose Vercel?
+### Why Choose Vercel?
 
 - **Zero Configuration**: Vercel auto-detects React apps and builds them with zero setup.
 - **Continuous Deployment**: Push your code to GitHub and your site updates automatically.
@@ -27,7 +27,7 @@ Here’s a step-by-step guide to get your React app live on Vercel in minutes.
 
 ---
 
-### 🛠 Step 1: Prepare Your React App
+### Step 1: Prepare Your React App
 
 Make sure your React app is ready to be deployed. If you don’t have one yet, create a new app with:
 
@@ -36,7 +36,7 @@ npx create-react-app my-react-app
 cd my-react-app
 
 
-## 🧪 Test it locally
+## Test it locally
 
 Run your app locally to make sure everything works:
 
@@ -48,7 +48,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser and verify t
 
 ---
 
-## 🛠 Step 2: Push Your Code to GitHub
+## Step 2: Push Your Code to GitHub
 
 Initialize Git if you haven’t already:
 
@@ -69,7 +69,7 @@ git push -u origin main
 
 ---
 
-## 🛠 Step 3: Connect Your Repository to Vercel
+## Step 3: Connect Your Repository to Vercel
 
 1. Go to [https://vercel.com](https://vercel.com) and sign up or log in (you can use GitHub to sign in).
 
@@ -86,7 +86,7 @@ git push -u origin main
 
 ---
 
-## 🛠 Step 4: Wait for Deployment
+## Step 4: Wait for Deployment
 
 Vercel will start building your app. You can watch the build logs in real-time.
 
@@ -100,13 +100,13 @@ You can share this link immediately!
 
 ---
 
-## 🛠 Step 5: Enable Continuous Deployment
+## Step 5: Enable Continuous Deployment
 
 Every time you push changes to your GitHub repository, Vercel automatically rebuilds and redeploys your app. This keeps your live site always up-to-date — no manual steps needed.
 
 ---
 
-## 🛠 Bonus: Add a Custom Domain (Optional)
+## Bonus: Add a Custom Domain (Optional)
 
 1. In your Vercel dashboard, open your project settings.
 
@@ -118,7 +118,7 @@ Every time you push changes to your GitHub repository, Vercel automatically rebu
 
 ---
 
-## ⚙️ Summary
+## Summary
 
 | Step              | Command / Action                              |
 |-------------------|----------------------------------------------|
@@ -130,8 +130,8 @@ Every time you push changes to your GitHub repository, Vercel automatically rebu
 
 ---
 
-## 🎉 Conclusion
+## Conclusion
 
 With Vercel, deploying your React app is quick and painless. No complex server setups or configurations — just connect your GitHub repo, deploy, and keep coding!
 
-Happy deploying! 🚀
+Happy deploying!

@@ -13,19 +13,19 @@ usemathjax: false
 
 Ever wished for a Pokédex that’s fast, simple, and fun to use? This Pokémon web app lets you scroll through hundreds of Pokémon effortlessly — with images, names, and all the essential info displayed in a clean, modern layout.
 
-### ✨ Features
+### Features
 
-- **🔍 Smart Search**: Type the name of a Pokémon and after a short pause, results that match your input will appear. No need to press enter.
-- **♾️ Infinite Scrolling**: Browse all available Pokémon without clicking next — more appear automatically as you scroll.
-- **🧼 Easy Reset**: A reset button clears your search and brings you back to the full list instantly.
+- **Smart Search**: Type the name of a Pokémon and after a short pause, results that match your input will appear. No need to press enter.
+- **Infinite Scrolling**: Browse all available Pokémon without clicking next — more appear automatically as you scroll.
+- **Easy Reset**: A reset button clears your search and brings you back to the full list instantly.
 
-### 🚀 Hosted on Vercel
+### Hosted on Vercel
 
 The app is deployed on [Vercel](https://vercel.com), which offers fast, reliable, and free hosting optimized for frontend frameworks like React. Every time you push updates to your GitHub repository, Vercel automatically builds and deploys the latest version of the app, ensuring continuous deployment with minimal effort.
 
 Try it live here: [My Pokemon App](https://myp-pokemon-ap.vercel.app)
 
-### 🛠️ Get Started Locally
+### Get Started Locally
 
 Want to run the project on your own computer or contribute?
 
@@ -49,7 +49,7 @@ Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## ⚙️ Technical Details to practice your skills using this app
+## Technical Details to practice your skills using this app
 
 - **Built with React**  
   Utilizes functional components and React hooks (`useState`, `useEffect`) for state management and lifecycle control.
@@ -82,4 +82,4 @@ Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 
 ## Contributing
 
-Feel free to explore the code, submit issues, or contribute new features via pull requests. Happy coding! 🎉
+Feel free to explore the code, submit issues, or contribute new features via pull requests. Happy coding!
