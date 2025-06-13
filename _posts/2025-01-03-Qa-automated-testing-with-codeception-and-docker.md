@@ -5,7 +5,7 @@ summary: "Let's dive into QA shall we!!!. Explore how to run end-to-end API auto
 author: mariecheo
 date: '2025-01-03 20:30:00 +0000'
 category: tutorials
-thumbnail: /assets/img/posts/codeception-docker.png
+thumbnail: /assets/img/posts/codeception.png
 keywords: codeception, automated testing, docker, QA, AWS ECR, acceptance testing, php testing
 permalink: /blog/codeception-api-acceptance-tests/
 usemathjax: false
