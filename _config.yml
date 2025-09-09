@@ -42,11 +42,11 @@ author_work_experiences:
               designation: Software Engineer Mentor
               description: Guided tech career transitions through mentorship and hands-on learning. Improved learner skills via coding challenges and real-world projects. Boosted job readiness with career coaching and resume support. Built a collaborative, knowledge-sharing community.
               visibility: true
-            - company_name: NewRich Network
-              company_logo: newrich.jpeg
-              company_url: https://newrich.com
-              designation: Software Engineer
-              description: Developed and optimized backend APIs, cutting response times by 40% and boosting user engagement. Refactored legacy code, improving maintainability by 25% and accelerating feature delivery. Built microservices for user progress tracking, enabling scalable, real-time analytics for thousands of learners.
+            - company_name: Canadian Tire Bank
+              company_logo: canadian_tire_logo.png
+              company_url: https://www.canadiantire.ca
+              designation: Bilingual Bank Customer Support 
+              description: Delivered bilingual (English/French) technical and financial support to clients on digital banking platforms, assisting with account management, data integrity checks, and system troubleshooting to ensure accuracy and reliability. Collaborated with IT and operations teams to resolve system-level issues affecting transactions and backend processes, while translating complex technical and financial concepts into clear explanations for clients.
               visibility: true
             - company_name: Maviance PLC
               company_logo: maviance_logo.jpeg
